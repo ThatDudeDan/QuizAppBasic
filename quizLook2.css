@@ -1,0 +1,325 @@
+body {
+    margin: 0;
+}
+
+#getQuizButton {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+#userQuizDisplay{
+    margin-top: 30px;
+    margin-bottom: 0px;
+}
+
+#userQuizDisplay table tr:first-child th{
+    background-color:darkgray;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow'; 
+}
+
+#selectionContainer {
+    background-color: rgb(173, 224, 241);
+    float: left;
+    clear: both;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 40px;
+    margin-bottom: 60px;
+    border-radius: 10px;
+    border: solid thin black;
+    box-sizing: border-box;
+}
+
+#selectionContainer label {
+    font-size: 20px;
+    margin-left: 20px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+#selectionContainer h2 {
+    background-color: rgb(126, 203, 231);
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    border: solid thin black;
+}
+
+#block {
+    border: solid thin black;
+}
+
+#selectionContainer div select {
+    width: 85%;
+    margin-left: 50px;
+    font-size: 20px;
+    margin-bottom: 20px;
+    margin-top: 5px;
+}
+
+#selectionContainer div input {
+    width: 85%;
+    margin-left: 25px;
+    font-size: 20px;
+}
+
+#homeButton, #quizResultsButton {
+    float: none;
+}
+
+#userQuizContainer button {
+    display: block;
+    margin-left: 20px;
+    margin-top: 20px;
+    font-size: 26px;
+}
+
+#userQuizContainer div:nth-child(2) {
+    background-color: rgb(173, 224, 241);
+    float: left;
+    width: 80%;
+    margin-left: 10%;
+    border-radius: 10px;
+    margin-top: 60px;
+}
+
+#userSelection label {
+    margin-left: 30px;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+#userSelection input {
+    width: 82.5%;
+}
+
+#userSelection p {
+    margin-left: 23px;
+    margin-top: 15px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#userQuizContainer div:nth-child(2) h2 {
+    background-color: rgb(126, 203, 231);
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    border: solid thin black;
+}
+
+#userSelection {
+    float: left;
+    width: 100% !important;
+    margin-left: 0 !important;
+    margin-top: 0 !important;
+}
+
+.section {
+    background-color: rgb(126, 203, 231);
+    width: 50%;
+    float: left;
+    margin-bottom: 60px;
+    margin-top: 30px;
+    Text-align: center;
+    Font-size: 30px;
+    font-weight: bold;
+    text-decoration: underline;
+    padding: 20px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    border: solid thin black;
+}
+
+.question {
+    font-size: 22px;
+    width: 97.5%;
+    margin: auto;
+    box-sizing: border-box;
+    margin-bottom: 30px;
+    margin-top: 60px !important;
+    border: solid thin black;
+    border-radius: 10px;
+    background-color: rgb(173, 224, 241);
+}
+
+.question div:first-child{
+    background-color: rgb(126, 203, 231);
+    font-size: 175%;
+    padding: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    border-bottom: solid thin black;
+    border-radius: 10px;
+}
+
+#quizTitle {
+    float: left;
+    margin-bottom: 60px;
+}
+
+.question div:nth-child(2) {
+    background-color: rgb(173, 224, 241);
+    padding-left: 30px;
+    padding-top: 40px;
+    padding-bottom: 30px;
+    border-radius: 10px;
+}
+
+.question div:nth-child(2) label:nth-child(2),  .question div:nth-child(2) input:nth-child(2){
+    margin-top: 30px !important;
+}
+
+input {
+    margin-left: 2.5%;
+    margin-bottom: 25px;
+    accent-color: black;
+    cursor: pointer;
+}
+
+h1 {
+    font-size: 300%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 20px;
+}
+
+h2 {
+    font-size: 250%;
+    text-decoration: underline;
+    margin-bottom: 10px;
+}
+
+#tabs div{
+    width: 10%;
+    display: inline;
+    font-size: 24px;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: rgb(126, 203, 231);
+    border-radius: 10px;
+    border: solid thin black;
+}
+
+#tabs {
+    text-align: center;
+    margin: auto;
+    width: 97.5%;
+    display: block;
+    color: red;
+    margin-top: 100px !important;
+    clear: both;
+}
+
+#tabs:hover {
+    cursor: pointer;
+}
+
+.hidden {
+    display: none !important;
+    animation: backwards;   
+}
+
+button {
+    font-size: 200%;
+    padding: 10px;
+    margin-left: 24px;
+    border-radius: 10px;
+    color: rgb(228, 225, 225);
+    background-color: rgb(29, 25, 25);
+    font-weight: 500;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: solid thin rgb(126, 203, 231);
+    float: left;
+    clear: both;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+#results, #userQuizDisplay {
+    float: left;
+    clear: both;
+    width: 97.5%;
+    margin-left: 1.40%;
+    margin-bottom: 20px;
+}
+
+#results table, #userQuizDisplay table {
+    width:100%;
+    text-align: center;
+    box-sizing: border-box;
+    border-collapse: collapse;
+}
+
+#results th, #userQuizDisplay th{
+    background-color: rgb(126, 203, 231);
+    color: black;
+    border: solid thin black;
+    font-size: 24px;
+    padding: 10px;
+    text-decoration: underline;
+}
+
+#results td, #userQuizDisplay td {
+    background-color: rgb(228, 225, 225);
+    border: solid thin black;
+    font-size: 20px;
+    padding: 15px;
+}
+
+#results td:first-child {
+    width: 100px;
+}
+
+#results th:first-child {
+    width: 100px;
+}
+
+#results div:first-child{
+    background-color: green;
+    padding: 20px;
+    font-size: 34px;
+    font-weight: 600;
+    margin-top: 30px;
+    border-radius: 10px;
+    border: solid 2px black;
+}
+
+.highlight {
+    background-color: black !important;
+    color: lightgray;
+    border: solid thin red !important;
+}
+
+#section1:hover, #section2:hover {
+    background-color: black !important;
+    color: lightgray;
+    border: solid thin red !important;
+    cursor: pointer;
+}
+
+.wrong {
+    color:red;
+}
+
+@media only screen and (max-width: 1500px) {
+
+    #tabs div {
+        width: 20%;
+        padding: 8px;
+        display: block;
+        float: left;
+    }
+
+    .question {
+        margin-top: 75px !important;
+        margin-left: 1.25%;
+        float: left;
+    }
+}
+
+.selected, .selected td{
+    background-color: rgb(158, 200, 255) !important;
+}

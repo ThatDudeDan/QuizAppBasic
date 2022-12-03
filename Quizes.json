@@ -1,0 +1,291 @@
+{
+    "Quizes": [
+        {
+            "title": "Geography Quiz",
+            "questions": [
+                {
+                    "questionText": "Which of the following countries does NOT border the Mediterranean Sea?",
+                    "choices": [
+                        "Egypt",
+                        "France",
+                        "Jordan",
+                        "Turkey"
+                    ],
+                    "answer": 2
+                },
+                {
+                    "questionText": "Where is Mount Everest?",
+                    "choices": [
+                        "Bangladesh",
+                        "Cambodia",
+                        "India",
+                        "Nepal"
+                    ],
+                    "answer": 3
+                },
+                {
+                    "questionText": "Which of the following is the name of an independent country?",
+                    "choices": [
+                        "Albania",
+                        "Alberta",
+                        "America",
+                        "Athabaska"
+                    ],
+                    "answer": 0
+                },
+                {
+                    "questionText": "Which of the following countries is NOT in South America?",
+                    "choices": [
+                        "Argentina",
+                        "Botswana",
+                        "Colombia",
+                        "Venezuela"
+                    ],
+                    "answer": 1
+                },
+                {
+                    "questionText": "Which of the Great Lakes is wholly contained in the USA?",
+                    "choices": [
+                        "Lake Erie",
+                        "Lake Huron",
+                        "Lake Michigan",
+                        "Lake Ontario",
+                        "Lake Superior"
+                    ],
+                    "answer": 2
+                },
+                {
+                    "questionText": "Which country's flag does NOT contain the colour red?",
+                    "choices": [
+                        "Pakistan",
+                        "Philippines",
+                        "Poland",
+                        "Portugal"
+                    ],
+                    "answer": 0
+                },
+                {
+                    "questionText": "What is the former name of Istanbul?",
+                    "choices": [
+                        "Campala",
+                        "Carthage",
+                        "Constantinople",
+                        "Crete"
+                    ],
+                    "answer": 2
+                },
+                {
+                    "questionText": "The Great Barrier Reef is closest to which country?",
+                    "choices": [
+                        "Australia",
+                        "Indonesia",
+                        "Japan",
+                        "Peru"
+                    ],
+                    "answer": 0
+                },
+                {
+                    "questionText": "Which of the following rivers is the longest?",
+                    "choices": [
+                        "The Danube River",
+                        "The Saint Lawrence River",
+                        "The Volga River",
+                        "The Yellow River"
+                    ],
+                    "answer": 3
+                },
+                {
+                    "questionText": "Where is the Shwedagon Pagoda?",
+                    "choices": [
+                        "Laos",
+                        "Myanmar",
+                        "Sri Lanka",
+                        "Thailand",
+                        "Vietnam"
+                    ],
+                    "answer": 1
+                }
+            ]
+        },
+        {
+            "title": "Number Systems",
+            "questions": [
+                {
+                    "questionText": "If the binary number 110101001100 is converted to octal, how many digits will the octal number contain?",
+                    "choices": [
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "not enough information"
+                    ],
+                    "answer": 1
+                },
+                {
+                    "questionText": "In the hexadecimal system, how many numbers are there between 58 and 62 (not including 58 and 62)?",
+                    "choices": [
+                        "3",
+                        "6",
+                        "9",
+                        "12",
+                        "not enough information"
+                    ],
+                    "answer": 2
+                },
+                {
+                    "questionText": "In the octal number system, 77 + 1 = ?",
+                    "choices": [
+                        "78",
+                        "80",
+                        "100",
+                        "777",
+                        "none of the above"
+                    ],
+                    "answer": 2
+                },
+                {
+                    "questionText": "If the left-most digit of a hexadecimal number is 1, and all of the other digits are 0, then number must be:",
+                    "choices": [
+                        "a power of 16",
+                        "a power of 8",
+                        "a power of 2",
+                        "all of the above",
+                        "none of the above"
+                    ],
+                    "answer": 3
+                },
+                {
+                    "questionText": "16 ^ 2222 = ",
+                    "choices": [
+                        "2 ^ 8888",
+                        "8 ^ 4444",
+                        "10 ^ 6666",
+                        "not enough information"
+                    ],
+                    "answer": 0
+                },
+                {
+                    "questionText": "What is the decimal equivalent of the largest eight-digit binary number?",
+                    "choices": [
+                        "255",
+                        "256",
+                        "512",
+                        "1000000",
+                        "not enough information"
+                    ],
+                    "answer": 0
+                },
+                {
+                    "questionText": "Which of the following is a valid number in a base-6 system?",
+                    "choices": [
+                        "45",
+                        "55",
+                        "65",
+                        "a and b",
+                        "b and c",
+                        "all of the above"
+                    ],
+                    "answer": 3
+                },
+                {
+                    "questionText": "A bus can hold 24 passengers, and a car can hold 3 passengers. If every bus used must be full, what is the minimum number of vehicles needed to transport 100 people?",
+                    "choices": [
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "not enough information"
+                    ],
+                    "answer": 2
+                },
+                {
+                    "questionText": "Which of the following statements is true?",
+                    "choices": [
+                        "Every power of 8 is a power of 2",
+                        "Every power of 8 is a power of 16",
+                        "Every power of 2 is a power of 8",
+                        "Every power of 16 is a power of 8."
+                    ],
+                    "answer": 0
+                },
+                {
+                    "questionText": "Let n be an integer greater than 1. Which of the following numbers is greater than 0?",
+                    "choices": [
+                        "n * n % n / n",
+                        "n * n / n % n",
+                        "n / n % n * n",
+                        "n / n * n % n",
+                        "n % n * n / n",
+                        "n % n / n * n"
+                    ],
+                    "answer": 2
+                }
+            ]
+        },
+        {
+            "title": "OnePiece Quiz",
+            "questions": [
+                {
+                    "questionText": "What is Luffy's bounty after the WholeCake Island Arc?",
+                    "choices": ["500 Million", "150 Million", "300 Million", "320 Million", "1.5 Billion"],
+                    "answer": 4
+                },
+                {
+                    "questionText": "Where was Gol D. Roger Born?",
+                    "choices": ["East Blue", "West Blue", "Thriller Bark", "Alabasta"],
+                    "answer": 0
+                },
+                {
+                    "questionText": "Who is Luffy's first main opponent?",
+                    "choices": ["Buggy The Clown", "Arlong", "Alvida", "Kuro"],
+                    "answer": 2
+                },
+                {
+                    "questionText": "Which of the following is not a type of Haki?",
+                    "choices": ["Conquerer's", "Observation", "Armament", "Divinity"],
+                    "answer": 3
+                },
+                {
+                    "questionText": "Who's the only character to eat more than 1 Devil Fruit?",
+                    "choices": ["Shanks", "BlackBeard", "Fugitora", "WhiteBeard", "Hawkeye"],
+                    "answer": 1
+                },
+                {
+                    "questionText": "What is the name Luffy uses to enter the Colosseum in Dressrosa?",
+                    "choices": ["Luffy (regular name)", "Lucy", "Lucky", "Loffy"],
+                    "answer": 1
+                },
+                {
+                    "questionText": "Who is known as \"The Strongest Creature\" in the One Piece Universe?",
+                    "choices": ["Gol D. Roger", "WhiteBeard", "Kaido", "Akainu", "BlackBeard"],
+                    "answer": 2
+                },
+                {
+                    "questionText": "How many swords does Roronoa Zoro wield?",
+                    "choices": ["1", "2", "3", "none"],
+                    "answer": 2
+                },
+                {
+                    "questionText": "What was the name of the mountain bandit that kidnapped Luffy when he was a kid?",
+                    "choices": ["Higuma", "Liguma", "Hijuma"],
+                    "answer": 0
+                },
+                {
+                    "questionText": "Who is the Captain of the Heart Pirates?",
+                    "choices": ["Trafalgar D. Law", "Crocodile", "Eustass Kidd", "Silvers Rayleigh"],
+                    "answer": 0
+                },
+                {
+                    "questionText": "How many of the eleven Supernovas are pirate ship captains?",
+                    "choices": ["10", "8", "9", "11"],
+                    "answer": 2
+                },
+                {
+                    "questionText": "Which of these characters were never one of the 'seven warlords' of the sea?",
+                    "choices": ["BlackBeard", "WhiteBeard", "Jinbe", "Crocodile", "Trafalgar D. Law", "Boa Hancock"],
+                    "answer": 1
+                }
+            ]
+        }
+    ]
+}
